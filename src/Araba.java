@@ -38,6 +38,6 @@ public class Araba { // araba adında bir sınıf   class oluşturuldu
             case 4:
                 System.out.println("Çıkış");
         }
-        System.out.println("deneme");
+
     }
 }
